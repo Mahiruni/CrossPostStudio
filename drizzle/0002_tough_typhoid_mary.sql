@@ -1,0 +1,1 @@
+ALTER TABLE `videos` ADD `publish_state` text;
